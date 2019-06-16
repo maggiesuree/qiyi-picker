@@ -1,0 +1,15 @@
+/target/
+.idea/
+.classpath
+.project
+.settings/
+node_modules
+build
+dist
+/test/
+.DS_Store
+*.log
+*.pyc
+coverage
+.vscode
+build_info.json
